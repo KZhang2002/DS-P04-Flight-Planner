@@ -1,0 +1,68 @@
+Ports:
+	City: Detroit
+		Start: Detroit | End: Austin | Price: 100 | Time: 50 | Airline: American
+		Start: Detroit | End: Austin | Price: 110 | Time: 60 | Airline: Spirit
+		Start: Detroit | End: Austin | Price: 120 | Time: 70 | Airline: United
+		Start: Detroit | End: Billings | Price: 80 | Time: 30 | Airline: American
+		Start: Detroit | End: Billings | Price: 90 | Time: 40 | Airline: Spirit
+		Start: Detroit | End: Billings | Price: 100 | Time: 50 | Airline: United
+		Start: Detroit | End: Chicago | Price: 120 | Time: 90 | Airline: American
+		Start: Detroit | End: Chicago | Price: 130 | Time: 100 | Airline: Spirit
+		Start: Detroit | End: Chicago | Price: 140 | Time: 110 | Airline: United
+		Start: Detroit | End: Fresno | Price: 110 | Time: 80 | Airline: American
+		Start: Detroit | End: Fresno | Price: 120 | Time: 90 | Airline: Spirit
+		Start: Detroit | End: Fresno | Price: 130 | Time: 100 | Airline: United
+		Start: Detroit | End: El_Paso | Price: 150 | Time: 120 | Airline: American
+		Start: Detroit | End: El_Paso | Price: 160 | Time: 130 | Airline: Spirit
+		Start: Detroit | End: El_Paso | Price: 170 | Time: 140 | Airline: United
+	City: Austin
+		Start: Austin | End: Detroit | Price: 100 | Time: 50 | Airline: American
+		Start: Austin | End: Detroit | Price: 110 | Time: 60 | Airline: Spirit
+		Start: Austin | End: Detroit | Price: 120 | Time: 70 | Airline: United
+		Start: Austin | End: Billings | Price: 90 | Time: 40 | Airline: American
+		Start: Austin | End: Billings | Price: 100 | Time: 50 | Airline: Spirit
+		Start: Austin | End: Billings | Price: 110 | Time: 60 | Airline: United
+	City: Billings
+		Start: Billings | End: Austin | Price: 90 | Time: 40 | Airline: American
+		Start: Billings | End: Austin | Price: 100 | Time: 50 | Airline: Spirit
+		Start: Billings | End: Austin | Price: 110 | Time: 60 | Airline: United
+		Start: Billings | End: Detroit | Price: 80 | Time: 30 | Airline: American
+		Start: Billings | End: Detroit | Price: 90 | Time: 40 | Airline: Spirit
+		Start: Billings | End: Detroit | Price: 100 | Time: 50 | Airline: United
+		Start: Billings | End: El_Paso | Price: 70 | Time: 20 | Airline: American
+		Start: Billings | End: El_Paso | Price: 80 | Time: 30 | Airline: Spirit
+		Start: Billings | End: El_Paso | Price: 90 | Time: 40 | Airline: United
+	City: El_Paso
+		Start: El_Paso | End: Billings | Price: 70 | Time: 20 | Airline: American
+		Start: El_Paso | End: Billings | Price: 80 | Time: 30 | Airline: Spirit
+		Start: El_Paso | End: Billings | Price: 90 | Time: 40 | Airline: United
+		Start: El_Paso | End: Detroit | Price: 150 | Time: 120 | Airline: American
+		Start: El_Paso | End: Detroit | Price: 160 | Time: 130 | Airline: Spirit
+		Start: El_Paso | End: Detroit | Price: 170 | Time: 140 | Airline: United
+		Start: El_Paso | End: Greensboro | Price: 160 | Time: 130 | Airline: American
+		Start: El_Paso | End: Greensboro | Price: 170 | Time: 140 | Airline: Spirit
+		Start: El_Paso | End: Greensboro | Price: 180 | Time: 150 | Airline: United
+	City: Chicago
+		Start: Chicago | End: Detroit | Price: 120 | Time: 90 | Airline: American
+		Start: Chicago | End: Detroit | Price: 130 | Time: 100 | Airline: Spirit
+		Start: Chicago | End: Detroit | Price: 140 | Time: 110 | Airline: United
+		Start: Chicago | End: Fresno | Price: 130 | Time: 110 | Airline: American
+		Start: Chicago | End: Fresno | Price: 140 | Time: 120 | Airline: Spirit
+		Start: Chicago | End: Fresno | Price: 150 | Time: 130 | Airline: United
+		Start: Chicago | End: Greensboro | Price: 140 | Time: 110 | Airline: American
+		Start: Chicago | End: Greensboro | Price: 150 | Time: 110 | Airline: Spirit
+		Start: Chicago | End: Greensboro | Price: 160 | Time: 110 | Airline: United
+	City: Fresno
+		Start: Fresno | End: Chicago | Price: 130 | Time: 110 | Airline: American
+		Start: Fresno | End: Chicago | Price: 140 | Time: 120 | Airline: Spirit
+		Start: Fresno | End: Chicago | Price: 150 | Time: 130 | Airline: United
+		Start: Fresno | End: Detroit | Price: 110 | Time: 80 | Airline: American
+		Start: Fresno | End: Detroit | Price: 120 | Time: 90 | Airline: Spirit
+		Start: Fresno | End: Detroit | Price: 130 | Time: 100 | Airline: United
+	City: Greensboro
+		Start: Greensboro | End: Chicago | Price: 140 | Time: 110 | Airline: American
+		Start: Greensboro | End: Chicago | Price: 150 | Time: 110 | Airline: Spirit
+		Start: Greensboro | End: Chicago | Price: 160 | Time: 110 | Airline: United
+		Start: Greensboro | End: El_Paso | Price: 160 | Time: 130 | Airline: American
+		Start: Greensboro | End: El_Paso | Price: 170 | Time: 140 | Airline: Spirit
+		Start: Greensboro | End: El_Paso | Price: 180 | Time: 150 | Airline: United

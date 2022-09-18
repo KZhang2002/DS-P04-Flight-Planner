@@ -1,0 +1,6 @@
+Requested Flights:
+	Flight 0: Austin, Greensboro (Cost)
+	Flight 1: Billings, Fresno (Time)
+	Flight 2: Chicago, Austin (Time)
+	Flight 3: El_Paso, Fresno (Cost)
+	Flight 4: Billings, Detroit (Time)

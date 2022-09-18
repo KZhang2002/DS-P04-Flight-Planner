@@ -1,0 +1,6 @@
+5
+Austin Greensboro T
+Billings Fresno C
+Chicago Austin C
+El_Paso Fresno T
+Billings Detroit C
